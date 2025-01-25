@@ -1,0 +1,149 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 80vw;
+}
+
+.navbar {
+    display: flex;
+    height: 67px;
+}
+
+.navbar li {
+    list-style: none;
+    margin: 0 12px;
+    cursor: pointer;
+}
+
+.topleft {
+    width: 50%;
+
+}
+
+.topright {
+    width: 50%;
+
+}
+
+.topright img {
+    height: 800px;
+}
+
+.section1 {
+    max-height: 100vh;
+}
+
+.section1 h1 {
+    font-size: 1.5rem;
+    color: #9f382d;
+}
+
+.logo {
+    font-size: 1.3rem;
+    cursor: pointer;
+}
+
+.dumbellimg {
+    width: 289px;
+    margin-top: 8px;
+
+}
+
+.topright .gymimg {
+    height: 500px;
+}
+
+.section2 {
+    padding: 73px;
+}
+
+.section2 h1 {
+    font-size: 2.5rem;
+}
+
+.section2 p {
+    padding: 0 8vw;
+    text-align: center;
+}
+
+.box {
+    padding: 8px o;
+    margin: 12px 22px;
+    min-width: 20vw;
+    border: 2px solid rgb(120, 54, 16);
+    border-radius: 8px;
+    text-align: center;
+}
+
+.box h2 {
+    font-size: 1.5rem;
+    padding: 15px 0;
+}
+
+.hilighted {
+    font-size: 1rem;
+    font-weight: bolder;
+}
+
+.box ul {
+    list-style: none;
+}
+
+.box ul li {
+    margin: 12px 2px;
+}
+
+.plantable {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.section3 table {
+    width: 100%;
+    margin-bottom: 140px 0;
+    margin-top: 20px;
+    border-collapse: collapse;
+
+}
+
+.section3 table th {
+    width: 23vw;
+    padding: 15px o;
+    border-bottom: 2px solid black;
+}
+
+.section3 table td {
+    border-bottom: 2px solid black;
+    padding: 8px;
+}
+
+
+.section3 h1 {
+    font-size: 2.5rem;
+}
+
+.section3 {
+    padding: 73px;
+}
+
+footer {
+    margin-top: 20px;
+    padding: 23px;
+    text-align: center;
+}
+
+.footer-link{
+    display: flex;
+    justify-content: center;
+}
+
+.footer-link li {
+    list-style: none;
+    margin: 25px 20px;
+}
+
+
